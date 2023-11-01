@@ -1,0 +1,7 @@
+litellm
+openai
+fastapi
+uvicorn
+boto3
+litellm
+redis
